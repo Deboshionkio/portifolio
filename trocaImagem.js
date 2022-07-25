@@ -1,16 +1,16 @@
 function mostraBeijaflor(imagem){
-    imagem.src="file:///C:/Users/55489/OneDrive%20-%20UNIVALI/Imagens/portifolio%20joaocarlos/projeto%20portifolio/beijaflor.jpeg";
+    imagem.src="https://raw.githubusercontent.com/Joaojhonsax/portifolio/main/imagens/beijaflor.jpeg";
    }
 function mostraSecador(imagem){
-    imagem.src="file:///C:/Users/55489/OneDrive%20-%20UNIVALI/Imagens/portifolio%20joaocarlos/projeto%20portifolio/secador.jpg";
+    imagem.src="https://raw.githubusercontent.com/Joaojhonsax/portifolio/main/imagens/secador.jpg";
    };
 
 
 function inverteEstudante(imagem){
-    imagem.src="file:///C:/Users/55489/OneDrive%20-%20UNIVALI/Imagens/portifolio%20joaocarlos/projeto%20portifolio/estudante.jpeg";
+    imagem.src="https://raw.githubusercontent.com/Joaojhonsax/portifolio/main/imagens/estudante.jpeg";
 }
 function inverteEstudo(imagem){
-    imagem.src="file:///C:/Users/55489/OneDrive%20-%20UNIVALI/Imagens/portifolio%20joaocarlos/projeto%20portifolio/estudo.jpg";
+    imagem.src="https://raw.githubusercontent.com/Joaojhonsax/portifolio/main/imagens/estudo.jpg";
 };
 
 
